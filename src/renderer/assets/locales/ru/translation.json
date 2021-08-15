@@ -1,0 +1,33 @@
+{
+  "navigation": {
+    "forward": "Вперед",
+    "backward": "Назад",
+    "to_main_menu": "В главное меню",
+    "register": "Зарегестрируйтесь"
+  },
+  "inputs": {
+    "title": "Будь ласка, заповніть поля"
+  },
+  "keyboard": {
+    "meta": "@",
+    "meta_active": "ABC",
+    "language": "UA",
+    "space": "SPACE",
+    "shift": "SHIFT",
+    "shift_active": "Shift"
+  },
+  "main": {
+    "title": "Будь ласка, оберіть потрібну послугу",
+    "tickets": {
+      "service_bottom": "Натисніть, щоб обрати послугу",
+      "node_bottom": "Натисніть, щоб обрати роздил"
+    }
+  },
+  "error": {
+    "global": "Щось пішло не так, зверніться до оператора!"
+  },
+  "success": {
+    "ticket_created": "Будь ласка, заберіть талон!",
+    "ticket_additional": "Ваш номер талону буде відображено на інформаційному табло."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "navigation": {
+    "forward": "Forward",
+    "backward": "Backward",
+    "to_main_menu": "Main menu"
+  },
+  "inputs": {
+    "title": "Please, fill required fields"
+  },
+  "keyboard": {
+    "meta": "@",
+    "meta_active": "ABC",
+    "language": "EN",
+    "space": "SPACE",
+    "shift": "SHIFT",
+    "shift_active": "Shift"
+  },
+  "main": {
+    "title": "Please, select the Service"
+  },
+  "error": {
+    "global": "Щось пішло не так, зверніться до оператора!"
+  },
+  "success": {
+    "ticket_created": "Будь ласка, заберіть талон!",
+    "ticket_additional": "Ваш номер талону буде відображено на інформаційному табло."
+  }
+}

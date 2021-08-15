@@ -1,0 +1,15 @@
+{
+  "REACT_APP_API_URL": "http://93.183.195.198:5002",
+  "BRANCH_ID": 10002,
+  "LOCALE": "UK",
+  "REACT_APP_TICKET_REQUEST_SPEED": 4000,
+  "REACT_APP_ERROR_TIMEOUT": 12000,
+  "REACT_APP_SUCCESS_TICKET_TIMEOUT": 12000,
+  "TICKETS_PER_PAGE": 9,
+
+  "primaryColor": "#1E73D7",
+  "secondaryColor": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "secondaryBackground": "#FDFDFD",
+  "borderColor": "#b5b5b5"
+}
